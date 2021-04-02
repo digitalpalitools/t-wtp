@@ -1,0 +1,21 @@
+div.i {
+    font-weight: bold;
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+div.q, div.h {
+    margin-bottom: 0.5rem;
+}
+
+div.plcb {
+    margin: auto;
+    margin-top: 0.5rem;
+}
+
+span.pN {
+    margin-right: 0.2rem;
+}
+
+a#upL {
+    margin: 0 2rem 0 2rem;
+} 
